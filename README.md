@@ -1,4 +1,4 @@
-# 📝 Full CRUD Showcase (Angular)
+# 📝 Full CRUD (Angular)
 
 This is a **simple yet complete CRUD demo application** built with **Angular standalone components** to demonstrate adding, editing, deleting, sorting, and searching items with a clean Bootstrap-styled UI.
 
