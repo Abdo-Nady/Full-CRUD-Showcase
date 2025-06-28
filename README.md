@@ -1,59 +1,38 @@
-# AngularListApp
+# 📝 Full CRUD Showcase (Angular)
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.4.
+This is a **simple yet complete CRUD demo application** built with **Angular standalone components** to demonstrate adding, editing, deleting, sorting, and searching items with a clean Bootstrap-styled UI.
 
-## Development server
+---
 
-To start a local development server, run:
+## 🚀 **Features**
 
-```bash
-ng serve
-```
+✅ Add items
+✅ Edit items
+✅ Delete items
+✅ Sort items alphabetically
+✅ Sort by newest or oldest
+✅ Clear all items
+✅ Live search filter
+✅ Timestamps for each item
+✅ Responsive Bootstrap UI
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+---
 
-## Code scaffolding
+## 💻 **Technologies Used**
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+* **Angular (standalone components, signals)**
+* **TypeScript**
+* **Bootstrap 5**
 
-```bash
-ng generate component component-name
-```
+---
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
 
-```bash
-ng generate --help
-```
+## 📸 **Screenshots**
 
-## Building
+![image](https://github.com/user-attachments/assets/525b406c-4e0d-4d7b-80ba-873f1ac86d4d)
 
-To build the project run:
+![image](https://github.com/user-attachments/assets/fecf4d80-e76d-4630-9f5f-0391d8d9ca1e)
 
-```bash
-ng build
-```
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+---
 
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
