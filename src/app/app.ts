@@ -9,6 +9,5 @@ import { ItemsListComponent } from './items-list';
   styleUrl: './app.css'
 })
 export class AppComponent {
-  // 🔴 Remove title reference or add it:
   title = 'angular-list-app';
 }
