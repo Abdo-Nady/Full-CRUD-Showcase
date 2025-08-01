@@ -35,7 +35,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: dist/Full-CRUD-Showcase  
+          path: dist/angular-list-app
 
   deploy:
     needs: build
